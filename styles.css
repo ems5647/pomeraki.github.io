@@ -1,7 +1,7 @@
 img {
-    height:200px;
-    width:200px;
-    border-radius:100px;
+    height:400px;
+    width:400px;
+    border-radius:200px;
 }
 
 body {
@@ -9,5 +9,11 @@ body {
 }
 
 h1 {
-font-family: 'Fjalla One', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
+    letter-spacing: 8px;
+}
+
+p {
+    margin-left:200px;
+    margin-right:200px;
 }
