@@ -1,7 +1,7 @@
 h1{
 font-family: 'Fjalla One', sans-serif;
 font-size:8em;
-margin-bottom:1em;
+margin-bottom:50px;
 text-align: center;
 margin:auto;
 }
@@ -10,5 +10,21 @@ p{
     font-family: 'Playfair Display', serif;
     width:70%;
     text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+}
+.nav{
+    height:150px;
+    width:150px;
+}
+table{
     margin:auto;
+    float:none;
+    position:relative;
+}
+td{
+    float:none;
+    position:relative;
+    text-align:center;
+    padding:50px;
 }
