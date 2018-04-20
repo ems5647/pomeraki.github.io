@@ -1,30 +1,32 @@
-h1{
-font-family: 'Fjalla One', sans-serif;
-font-size:8em;
-margin-bottom:50px;
-text-align: center;
-margin:auto;
+*{
+    background-color: #000000;
 }
-
-p{
-    font-family: 'Playfair Display', serif;
-    width:70%;
-    text-align: center;
-    margin-left:auto;
-    margin-right:auto;
-}
-.nav{
-    height:150px;
-    width:150px;
-}
-table{
-    margin:auto;
-    float:none;
-    position:relative;
-}
-td{
-    float:none;
+.intro{
     position:relative;
     text-align:center;
-    padding:50px;
+}
+#name {
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Fjalla One', sans-serif;
+    border-style:solid;
+    width:60%;
+    height:auto;
+    font-size:3em;
+    border-width:8px;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:2%;
+    border-color:#ffffff;
+    color:#ffffff;
+}
+#titlebackground {
+    display:block;
+    max-width:100%;
+    max-height:600px;
+    width:auto;
+    height:auto;
 }
