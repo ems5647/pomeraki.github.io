@@ -11,7 +11,7 @@
     border-style:solid;
     width:60%;
     height:auto;
-    font-size: 8vw;
+    font-size: 5vw;
     border-width:8px;
     text-align:center;
     margin-left:auto;
@@ -19,8 +19,7 @@
     margin-top:2%;
     border-color:#ffffff;
     color:#ffffff;
-    padding-top:-20%;
-    padding-bottom:-20%;
+    padding:-20%;
 }
 #titlebackground {     
     max-height:100%;
