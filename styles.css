@@ -88,3 +88,12 @@ li a{
     margin-right:auto;
     margin-left:auto;
 }
+#contact{
+    background-image: url("wood.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    border-radius:5px;
+    width:90%;
+    margin-right:auto;
+    margin-left:auto;
+}
